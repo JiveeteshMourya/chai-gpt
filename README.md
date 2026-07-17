@@ -1,3 +1,18 @@
+## Commands Used in This Project (inorder)
+
+```bash
+1. npx create-next-app@latest .
+2. npx shadcn@latest init --preset b501jMniK --template next
+3. npx shadcn@latest add
+4. npm install next-themes 
+5. npm i @tanstack/react-query
+6. npm i prisma @prisma/client @prisma/adapter-pg
+7. npx prisma init
+8. npx prisma generate
+9. npx prisma migrate dev
+10. npx prisma studio
+```
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
