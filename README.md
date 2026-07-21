@@ -12,6 +12,11 @@
 9. npx prisma migrate dev
 10. npx prisma studio
 11. npm install @clerk/nextjs
+12. npm install ai 
+13. npm i @ai-sdk/openai 
+14. npm i @ai-sdk/react
+15. npx ai-elements@latest add message   
+16. npx ai-elements@latest add conversation
 ```
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
